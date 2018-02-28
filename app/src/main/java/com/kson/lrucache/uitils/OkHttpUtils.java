@@ -11,13 +11,6 @@ import java.util.concurrent.TimeUnit;
 import okhttp3.Cache;
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
-
-/**
- * Author:kson
- * E-mail:19655910@qq.com
- * Time:2017/12/19
- * Description:
- */
 public class OkHttpUtils {
 
     private final int CACHE_SIZE = 10*1024*1024;

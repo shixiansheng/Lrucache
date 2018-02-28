@@ -11,13 +11,6 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
-
-/**
- * Author:kson
- * E-mail:19655910@qq.com
- * Time:2017/12/19
- * Description:
- */
 public class NetCacheUtil {
     private static final String TAG = NetCacheUtil.class.getSimpleName();
     private static NetCacheUtil mInstance;

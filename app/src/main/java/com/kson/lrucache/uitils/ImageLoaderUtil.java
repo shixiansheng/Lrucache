@@ -5,12 +5,6 @@ import android.widget.ImageView;
 
 import com.kson.lrucache.R;
 
-/**
- * Author:kson
- * E-mail:19655910@qq.com
- * Time:2017/12/19
- * Description:
- */
 public class ImageLoaderUtil {
     private static ImageLoaderUtil mInstance;
 

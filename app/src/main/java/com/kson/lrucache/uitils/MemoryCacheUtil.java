@@ -7,13 +7,6 @@ import android.util.LruCache;
 import java.lang.ref.SoftReference;
 import java.security.KeyStore;
 import java.util.HashMap;
-
-/**
- * Author:kson
- * E-mail:19655910@qq.com
- * Time:2017/12/19
- * Description:内存缓存工具类2，软引用
- */
 public class MemoryCacheUtil {
     private static final String TAG = MemoryCacheUtil.class.getSimpleName();
     private static MemoryCacheUtil mInstance;

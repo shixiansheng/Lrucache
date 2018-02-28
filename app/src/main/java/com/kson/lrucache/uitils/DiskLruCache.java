@@ -32,12 +32,6 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 /**
- * Author:kson
- * E-mail:19655910@qq.com
- * Time:2017/12/19
- * Description:
- */
-/**
  ******************************************************************************
  * Taken from the JB source code, can be found in:
  * libcore/luni/src/main/java/libcore/io/DiskLruCache.java

@@ -7,13 +7,6 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.Map;
-
-/**
- * Author:kson
- * E-mail:19655910@qq.com
- * Time:2017/12/20
- * Description:
- */
 public class Test {
     public static void main(String[] args){
 //        LinkedHashMap<String,String> map=new LinkedHashMap<String, String>(0, 0.75f, true);

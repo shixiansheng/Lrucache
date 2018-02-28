@@ -11,12 +11,6 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-/**
- * Author:kson
- * E-mail:19655910@qq.com
- * Time:2017/12/19
- * Description:
- */
 public class LocalCacheUtil {
     private static LocalCacheUtil mInstance;
 

@@ -13,13 +13,6 @@ import com.kson.lrucache.uitils.ImageLoaderUtil;
 import com.kson.lrucache.uitils.MD5Util;
 
 import java.util.List;
-
-/**
- * Author:kson
- * E-mail:19655910@qq.com
- * Time:2017/12/19
- * Description:
- */
 public class ImageAdapter extends BaseAdapter {
     List<ImageEntity> mList;
     private Context mContext;

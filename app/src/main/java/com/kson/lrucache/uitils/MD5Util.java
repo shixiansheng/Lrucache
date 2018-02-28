@@ -2,12 +2,6 @@ package com.kson.lrucache.uitils;
 
 import java.security.MessageDigest;
 
-/**
- * Author:kson
- * E-mail:19655910@qq.com
- * Time:2017/12/19
- * Description:
- */
 public class MD5Util {
     public final static String MD5(String pwd) {
         //用于加密的字符
